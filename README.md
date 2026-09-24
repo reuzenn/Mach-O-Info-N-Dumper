@@ -4,4 +4,7 @@ Compiled using G++
 
 
 
-To compile via G++: g++ machodumper.cpp -o Mach-O-Dumper.exe -mwindows -lcomdlg32 -lgdi32 -luser32
+To compile via G++: 
+
+
+g++ machodumper.cpp -o Mach-O-Dumper.exe -mwindows -lcomdlg32 -lgdi32 -luser32
